@@ -24,7 +24,7 @@ This repository contains various labs demonstrating common security vulnerabilit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/web3-security-labs.git
+   git clone https://github.com/themaden/-Web3-Security-Labs.git
    ```
 2. Navigate to the desired lab directory.
 3. Follow the setup instructions in the respective README files.
